@@ -1,0 +1,17 @@
+
+
+@media (max-width: 600px) {
+  
+  h1 {
+    padding: 4%;
+  }
+  .products {
+    display: inherit;
+    height: auto;
+    padding: 15%;
+  }
+  .product {
+    display: block;
+    position: inherit;
+  }
+}
